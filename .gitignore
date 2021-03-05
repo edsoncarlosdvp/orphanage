@@ -1,5 +1,14 @@
 web/node_modules
-mobile/node_modules
-backend/node_modules
-
 web/build
+
+mobile/node_modules
+mobile/.expo
+mobile/.expo-shared
+mobile/.vscode
+
+backend/node_modules
+backend/.dist
+backend/.env
+backend/yarn.lock
+backend/uploads/*
+!uploads/.gitkeep
